@@ -1,0 +1,87 @@
+,partner_course_url,title,description,logo,content,prerequisites,what_will_learn,short_desc,delivery_type,target_students,reviewer_1_name,reviewer_1_review,reviewer_1_image,reviewer_2_name,reviewer_2_review,reviewer_2_image,course_duration,course_duration_unit,regular_price,sale_price,currency,language,pricing_type,instructor_1_name,instructor_1_designation,instructor_2_name,instructor_2_designation,instructor_3_name,instructor_3_designation,instructor_4_name,instructor_4_designation,Job_Assistance
+0,https://www.springboard.com/courses/introduction-to-analytics/,Introduction to Data Analytics Course,"This four-week course requires no experience as we introduce you to fundamental concepts and skills for a career in data analytics. Your mentor will guide you through the curriculum, a hands-on project, and technical skills survey. A career coach will also talk you through potential career paths in the field. If you want to progress to our Data Analytics Career Track, the $349 for this course will be applied to reduce the cost for that program.","https://res.cloudinary.com/springboard-images/image/upload/c_limit,h_40,q_auto,dpr_auto,fl_lossy/v1592318763/SB_logo.png","
+Welcome to the course
+Curriculum logistics
+Your Springboard support team and the role of each
+Setting some ground rules
+
+
+The difference between data science and data analytics
+Various roles and responsibilities of a Data Analyst
+How data analysis can be used to solve real-world problems
+The tools used in data analysis
+
+
+How data analysis is used in data-driven decision making
+HDEIP Framework
+Build out an issue tree with at least 3 levels 
+Opposite Words Technique
+Value driver tree
+
+
+Analyze a dataset filled with numerical and categorical data
+Aggregate functions: SUM(), AVG(), IF()
+Boolean Logic and Statement Clauses
+Pivot tables
+Visualizing data with Excel
+
+
+Communicating data insights 
+Techniques for specific audiences: Executive, Technical, Non-Technical
+Powerpoint visualization techniques
+Powerpoint template provided
+
+
+30 minutes
+Grants eligibility for Career Track if the student chooses
+
+","No prior data experience is required. All you need is a computer, internet connection, and Microsoft Excel.
+","As part of each unit below, you will apply your learnings to a hands-on project that should be completed prior to your technical skills survey.",Learn data analytics fundamentals by working on a hands-on project guided by your industry mentor.,Online,"The intro course has student cohorts starting each Monday. Simply click “Enroll Now” and select the cohort that best works for you.|The total estimated workload is 40 hours. It’s expected to be completed in four weeks at 10-15 hours per week. However, you may complete the course faster or need more time — no problem! Students have lifetime access to the course.  You will be limited to four mentor calls but can work on the course at your own pace.|No prior data experience is required. All you need is a computer, internet connection, and Microsoft Excel.|We strongly advise students to work in Microsoft Excel. If you do not currently have access, Springboard can reimburse you for a license during the course or a specified period of time. Your student advisor will be able to provide specific details after enrollment.|",Khaled Jafar,"""They have top notch mentors that are experts in their field...and the project helped me solve a real world problem.""","https://res.cloudinary.com/springboard-images/image/upload/c_limit,w_30,q_auto,dpr_auto,fl_lossy/v1542865465/homepage-assets/student11-khaled.png",,,,Courses begin every Monday | Apply tuition to the Career Track,month,$349,$349,USD,English,Paid,Ryan George,Data Analyst,Leslie Chen,Business Associate,Venkatraman Prabhu,Sr. Product Manager,Chris Hui,Senior Data Scientist,FALSE
+1,https://www.springboard.com/courses/introduction-to-design,Introduction to UX Design: Online Course + Mentorship,"Want to get a sense of what the life of a designer looks like before deciding to pursue the field?  If so, this course is for you. In this mentor-led course, you'll spend ~4 weeks learning foundational skills in UI/UX design, completing hands-on projects, and learning more about what the day-to-day life of a designer looks like. This course will allow you to evaluate if a career in design and a self-paced, online program with plentiful 1-on-1 support is right for you.  If you decide it is, this can be a great first step toward that future!","https://res.cloudinary.com/springboard-images/image/upload/c_limit,h_40,q_auto,dpr_auto,fl_lossy/v1592318763/SB_logo.png","
+Curriculum Logistics 
+Your Support System 
+
+
+The Design Thinking Mindset
+UI vs UX Design 
+
+
+Competitive Research
+Personas 
+
+
+Sketching Techniques 
+The Crazy 8s Ideation Method
+
+
+Sketch
+Figma 
+
+
+Design Patterns 
+Wireframes
+
+
+Style Guides
+Designing in High Fidelity 
+
+","No prior design experience is required, all you need is a desire to learn.
+",You'll complete an end-to-end design project that will allow you to apply skills covered in each unit of the course. Total hours - 50.,Learn design fundamentals by working through projects with 1-on-1 mentorship from an industry expert,Online,"The intro course has cohorts starting each Monday. Simply click “Enroll Now” and select the cohort that best works for you.|The total estimated workload is 50 hours that is expected to be completed in 4 weeks. You may complete the course faster with previous design experience or if you are able to dedicate additional time to the material. You may also need more time or longer to complete if you are brand new to design or have a constrained schedule-- no problem, students will have lifetime access to the course.  You will be limited to four mentor calls but can continue to work on this flexible, self-paced course for as long as you need.|No prior design experience is required, all you need is a desire to learn.|Students will need to have a computer with a system that is compatible with either Sketch or Figma.|",Jeremy Nigh,"""""My Springboard mentor helped me understand the improvisational nature of the UX process, and because she’s an active professional in the UX field, she was able to teach me valuable insights that only come from working in real-world scenarios.""""","https://res.cloudinary.com/springboard-images/image/upload/c_limit,w_30,q_auto,dpr_auto,fl_lossy/v1556093305/homepage-assets/career-tracks/sp-uxc/mentors/jeremy.png",,,,Cohorts begin every Monday | Apply tuition to the Career Track,month,$349,$349,USD,English,Paid,Earl Friedberg,UX Lead,John Maier,Sr. Dir. - Product Design,Elsa Ho,UX Researcher,Ali Rushdan Tariq,Sr. Product Designer,FALSE
+2,https://www.springboard.com/courses/software-engineering-career-track-prep,Introduction to Software Engineering: Self-Paced Course,"Need more prep for our Software Engineering Career Track? You've come to the right place. In this mentor-led course, you'll spend 4-6 weeks learning foundational skills in web development — including HTML, CSS, and JavaScript — all via a curriculum specifically designed to help you pass the admissions technical skills survey for the Software Engineering Career Track .","https://res.cloudinary.com/springboard-images/image/upload/c_limit,h_40,q_auto,dpr_auto,fl_lossy/v1592318763/SB_logo.png","Estimated time: 30+ Hours
+HTML Fundamentals
+Semantic HTML
+CSS Selectors and Specificity
+The Box Model
+CSS Layout and Animations
+Responsive Design
+
+Estimated time: 30+ Hours
+Variables and Data Types
+Conditional Logic
+Arrays
+Objects
+Functions
+Debugging
+
+","No prior coding experience is required.
+",The curriculum is split into 2 content areas; during each one you'll complete detailed practice exercises to reinforce key learning concepts.,"Learn the foundational web development skills (HTML, CSS, and JavaScript) you need to gain admission",Online,"When the course launches, it will start each Monday. Until then, enter your email above to be the first to know when it's available!|No prior coding experience is required.|This course will prepare you with the skills needed in HTML, CSS, and JavaScript to pass our admissions technical skills survey, but enrolling in this course does not guarantee admission into the Software Engineering Career Track. However, it will grant you priority treatment in the admissions process.|",Esme Gaisford,"""My mentor was great, had real-world experience and served as a great resource to help me define a project as well as solve technical questions with my coding. She also provided extra resources if I wanted to practice or further develop a skill from the program.""","https://res.cloudinary.com/springboard-images/image/upload/c_limit,w_30,q_auto,dpr_auto,fl_lossy/v1549366507/homepage-assets/career-tracks/sp-dsc/mentors/esme.png",,,,Cohorts begin every Monday | Apply tuition to the Career Track,month,$490,$490,USD,English,Paid,Lahiru G.,Software Engineer,Jessica McElroy,Software Engineer,Eddy Sayar,Software Engineer,Roy Zheng,Sr. Software Engineer,FALSE

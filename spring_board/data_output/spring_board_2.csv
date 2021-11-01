@@ -1,0 +1,170 @@
+,partner_course_url,title,description,logo,content,prerequisites,what_will_learn,short_desc,delivery_type,target_students,reviewer_1_name,reviewer_1_review,reviewer_1_image,reviewer_2_name,reviewer_2_review,reviewer_2_image,course_duration,course_duration_unit,regular_price,sale_price,currency,language,pricing_type,instructor_1_name,instructor_1_designation,instructor_2_name,instructor_2_designation,instructor_3_name,instructor_3_designation,instructor_4_name,instructor_4_designation,Job_Assistance
+0,https://www.springboard.com/courses/ai-machine-learning-career-track/,Machine Learning Bootcamp: 100% Job Guarantee,Learn at your own pace with 1-on-1 mentorship from industry experts and support from student advisors and career coaches.,"https://res.cloudinary.com/springboard-images/image/upload/c_limit,h_40,q_auto,dpr_auto,fl_lossy/v1592318763/SB_logo.png","Estimated time: 120+ HoursWe’ll teach you the most in-demand ML models and algorithms you’ll need to know to succeed as an Machine Learning Engineer. For each model, you will learn how it works conceptually first, then the applied mathematics necessary to implement it, and finally learn to test and train them.
+
+Regression modeling with linear and logistical regression
+Classification modeling with naive bayes, k-nearest neighbor, and support vector machines
+Decision tree models with random forest and the accompanying boosting algorithms such as XGBoost and CatBoost
+Anomaly detection modeling with isolated forests, PCA, and K-Means clustering
+Recommendation systems and time series prediction models
+Model selection, evaluation, and interpretation concepts like regularization, dimension reduction, and cross-validation
+
+Estimated time: 30+ HoursDeep learning is a school of machine learning that involves the training of self-generating neural networks, which take their inspiration from the inner workings of the human brain.
+
+Overview of Neural Networks, backpropagation, and foundational techniques like stochastic gradient descent
+Principles of Deep Neural Networks
+Common Deep Neural Network configurations e.g. RNNs, CNNs, MLPs, LSTMs
+Generative Deep Learning and GANs
+Linear algebra and calculus necessary for these models
+Engineering Frameworks like Keras, TensorFlow, PyTorch, Fast.ai, and CuPy
+
+Estimated time: 40+ HoursThe field of Computer Vision, which focuses on image recognition and the creation of unique images, is rapidly evolving because of the wealth of image data proliferated through social media and other online sources.
+
+Foundations of computer vision and image processing including an introduction to OpenCV and how to use neural networks for image processing
+Image clustering and classification with K-means, multitask classifiers, and GANs
+Object detection and image segmentation with techniques like Single Shot Detectors and YOLO Detection
+Applications and trends in computer vision
+
+Estimated time: 50+ HoursThroughout this course, you’ll be introduced to a variety of tools and libraries that are used in both data science and machine learning. These include everything from ML libraries to deployment tools.
+
+Python Data Science Tools includes pandas, scikit-learn, Keras, TensorFlow
+Machine learning engineering tools including Spark/PySpark, TensorFlow, Luigi, Docker, Hadoop, AWS, and Fast.ai
+Software engineering tools including continuous integration, version control with Git, logging, testing, and debugging
+Deployment tools like Paperspace, FastAPI, AWS, and Algorithmia
+
+Estimated time: 50+ HoursMachine learning at scale and in production is an entirely different beast than training a model in Jupyter notebook. When you’re working at scale, there are a host of problems that can disrupt your model and its performance.
+
+Creating reliable and reproducible data pipelines to ensure your model is well fueled
+Cloud-based services provided by AWS, Microsoft Azure, and Google
+Using Dask and pandas to scale large datasets
+Using SparkML to scale an ML model, debugging and monitoring Spark ML applications and pipelines
+The machine learning life cycle and challenges that can occur when integrating your model into an application
+
+Estimated time: 50+ HoursIt can take over a month to properly deploy a model, and most other machine learning courses do not focus on deployment, which is a much desired skill in the workplace.
+
+Common tools and techniques to build large-scale AI applications
+Tools for building and deploying quality APIs like Swagger, Postman, FastAPI, and Paperspace
+Productionizing models with CI and CD
+Packaging your model into an interactive product like an app or website with tools like Streamlit, TensorFlow.js, and TensorFlow Lite
+Tools like PySpark, PyTorch, and Spark for model production
+
+Estimated time: 70+ HoursData is the fuel of machine learning. A critical part of every machine learning engineer’s job is collecting, cleaning, processing, and transforming data. Without quality data, you can’t get quality insights.
+
+Collecting data from APIs, RSSs, and web scraping
+Cleaning and transforming data for ML systems at scale, including tools for automatic transformation
+Working with large data sets in SQL and NoSQL databases
+Tools like pandas, Spark, Dask, SQL, Spark SQL, and ScrappingHub
+
+","1+ year of professional experience working in software engineering and development OR data science using a general-purpose OOP language, such as Python, Java and C++|OR A Master's or PhD degree in CS, Math, EE, Physics, Data Science, Informatics, Economics, Operations Research, Financial Engineering, Applied Stats or other degree that involves extensive programming experience.|","We partnered with industry insiders, so you can learn the skills that employers look for. The 500+ hour curriculum features a combination of videos, articles, hands-on projects, and career-related coursework.",,Online,"The Data Science Career Track prepares you for a career as a Data Scientist, where you’ll analyze data and create ML prototypes to drive business insights. You’ll build a prototype to solve a problem as part of your capstone project. The course is for people who have some stats or programming background.  |The Machine Learning Engineering Career Track prepares you for a career as a Machine Learning Engineer, where you’ll build and deploy ML prototypes at scale. You’ll deploy a real large scale API that can be assessed via API or a website as part of your capstone project. The course is for software engineers who want to work in machine learning.|A career transition into Machine Learning Engineering is exciting, but involves focused and consistent effort. We are thrilled to have your back in this journey and ask for an equal commitment from you. In order to be eligible for this job guarantee, you should:|Read the full eligibility criteria and terms here.|There are 4 payment options (all of which come with our job guarantee as long as you meet eligibility requirements). Our two standard payment plans are:|In addition, we have 2 other payment options. These are available by application to qualifying US citizens and permanent residents. If you are not a US citizen or permanent resident, you can still apply for financing with a fully qualifying co-borrower who is a citizen or permanent resident - as long as you both have a US address.|All charges will be in USD (based on the above prices). If you reside outside the U.S., this might carry an additional transaction fee, depending on the bank you use. We display prices in your local currency to give you an estimate of how much you will pay based on prevailing exchange rates, excluding transaction fees.|Yes! Finance your tuition with a loan from our partner Climb Credit. If approved, you'll make low interest-only payments while enrolled ($77-$155/mo), and upon completion of the course, pay 36 monthly payments of $410-$454 each. Learn about the application process on Climb Credit's website here.|We do also have a Deferred Tuition payment plan through Ascent. With this payment plan, you can pay an initial upfront deposit ($700) and then not pay anything else until you graduate. This option is not subject to interest on payment––you will owe a flat fee of $17,800 ($15,500 - your deposit) once you get a job. This fee will also be broken up into monthly payment of $494/month over 36 months.|",Srdjan Santic,"""Springboard students in the Machine Learning Engineering Career Track have a lot of support – mentors can answer questions,TAs are available, and they have Unlimited Mentor Calls where students can reach any number of mentors. If you’re working on a homework assignment or mini project and are really stuck, you can easily contact a mentor for help.""","https://res.cloudinary.com/springboard-images/image/upload/c_limit,w_30,q_auto,dpr_auto,fl_lossy/v1558688241/homepage-assets/career-tracks/sp-aic/mentors/srdjan.png",Lou Zhang,"""Since Springboard, I've really blended my passion into my work. I got a job on an advanced analytics team""","https://res.cloudinary.com/springboard-images/image/upload/c_limit,w_30,q_auto,dpr_auto,fl_lossy/v1558688241/homepage-assets/career-tracks/sp-aic/career-coaching/lou.png",6-month,month,"$13,140","$10,900",USD,English,Paid,Daniel Carroll,Principal Data Scientist,Farrukh Ali,Lead Machine Learning Eng.,Artem Yankov,Senior Data Scientist,Zeehasham Rasheed,Senior Data Scientist,TRUE
+1,https://www.springboard.com/courses/data-science-career-track/,Data Science Bootcamp: Online Classes & 100% Job Guarantee,Learn at your own pace with 1-on-1 mentorship from industry experts and support from student advisors and career coaches.,"https://res.cloudinary.com/springboard-images/image/upload/c_limit,h_40,q_auto,dpr_auto,fl_lossy/v1592318763/SB_logo.png","Estimated time: 21+ HoursPython has become a lingua franca of data science. In this unit, you'll learn to program in Python, how to follow best coding practices, and start using an ecosystem of powerful Python-based tools.
+
+Learn how to use Python and its standard libraries
+Build visualizations with Matplotlib and Seaborn
+Write clear, elegant, readable code in Python using the PEP8 standard
+
+Estimated time: 54+ HoursData scientists spend a lot of time on data wrangling (i.e., acquiring raw data, cleaning it, and getting it into a format amenable for analysis), usually with the help of semi-automated tools. In this unit, you'll learn the most common tools and workflows in Python that simplify and automate this complicated process.
+
+Use Pandas to wrangle and clean data
+Work with different file formats, from plain text, to CSV, to JSON
+Get an overview of relational and non-relational databases and gain SQL skills
+Collect data by using Application Programming Interfaces (APIs)
+
+Estimated time: 30+ HoursData science is not just about the math, the algorithms, and the analysis. It's also about telling a good story. In real life, data scientists don't work in a vacuum—there's always a client, internal or external, waiting to act based on the results of their work.
+In this unit, you’ll practice the concepts you've learned so far by creating a story out of a data set. You’ll come up with interesting questions you can ask of your data set and use plotting techniques to reveal insights you can use to create a narrative.
+Estimated time: 46+ HoursStatistics is the mathematical foundation of data science. Inferential statistics helps data scientists identify trends and characteristics of a data set. Not only are these techniques useful for exploring data and telling a good story, but they pave the way for deeper analysis and predictive modeling.
+
+Master the basics of inferential statistics and parameter estimation
+Use hypothesis testing to determine if a phenomenon is statistically significant
+Learn how correlation and regression can help identify useful features
+Build A/B split tests
+Conduct exploratory data analysis
+
+Estimated time: 120+ HoursMachine learning (ML) combines aspects of computer science and statistics to extract useful insights from data. It’s what lets us make useful predictions and recommendations, or automatically find groups and categories within complex data sets. In this unit, you’ll learn the major machine learning algorithms (supervised and unsupervised).
+
+Use scikit-learn to implement supervised and unsupervised algorithms
+Learn top ML techniques: linear and logistic regression, naive Bayes classifiers, support vector machines, decision trees, and clustering
+Review ensemble learning with random forests and gradient boosting
+Validate and evaluate machine learning systems
+
+Estimated time: 9+ HoursAs a data scientist, no matter how many algorithms you design or how much data you crunch, ultimately you’ll be writing software. Some companies expect their data scientists to contribute directly to the code base, while others have engineers around to help translate prototype code to production.
+In this unit, you’ll learn how to be a good citizen of the code base, with a focus on writing better code, testing and debugging, and working with production systems.
+Estimated time: 25+ Hours
+Work with MapReduce, one of the most popular algorithms for large-scale data manipulation
+Understand NoSQL databases and how they differ from SQL
+Learn Spark, the industry standard in distributed computing frameworks
+Learn SparkML and MLlib to implement Machine Learning at scale on Spark
+
+Estimated time: 133+ Hours
+Recommendation systems, social network analysis, and time-series analysis.
+Natural Language Processing (NLP): Help teach computers to identify, understand, and interpret human languages.
+Fundamentals of Deep Learning: Uncover the techniques powering machine translation, self-driving cars, and more.
+
+","6 months of active coding experience with a general-purpose programming language (e.g., Python, R, Java, C++)|Comfort with basic probability and descriptive statistics, including concepts like mean and median, standard deviation, distributions, and histograms|","We partnered with industry insiders, so you can learn the skills that employers look for. The 500+ hour curriculum features a combination of videos, articles, hands-on projects, and career-related coursework.","With deferred tuition and a job guarantee, investing in yourself is risk-free.",Online,"A career transition into data science is exciting, but involves focused and consistent effort. We are thrilled to have your back in this journey and ask for an equal commitment from you. In order to be eligible for this job guarantee, you should:|Note that while our different specialization tracks prepare you for a career in a specialized field, we cannot guarantee that your first data science position will be in that field.|Read the full eligibility criteria and terms here.|The Data Science Career Track will train you for Data Science or technical Data Analyst roles where you will build machine learning models to predict business outcomes.|The Data Analytics Career Track will train you for Data Analyst roles where you will crunch numbers and generate visualizations using tools like Excel, SQL and Tableau.|The Machine Learning Engineering Career Track will train you for Machine Learning Engineer roles, where you will take a machine learning model and deploy it into production.|To see a more detailed comparison of these programs, head here.|There are 4 payment options (all of which come with our job guarantee as long as you meet eligibility requirements). Our two standard payment plans are:|In addition, we have 2 other payment options. These are available by application to qualifying US citizens and permanent residents. If you are not a US citizen or permanent resident, you can still apply for financing with a fully qualifying co-borrower who is a citizen or permanent resident - as long as you both have a US address.|**All charges will be in USD (based on the above prices).**If you reside outside the U.S., this might carry an additional transaction fee, depending on the bank you use. We display prices in your local currency to give you an estimate of how much you will pay based on prevailing exchange rates, excluding transaction fees.|Yes, we have a financing option available for the Core Path! Students can apply for a loan with our partner Climb Credit, and if approved, use it to pay for tuition. Learn about the application process on Climb Credit’s website here.|We do also have a Deferred Tuition payment plan for the Core Path through Ascent. With this payment plan, you can pay an initial upfront deposit ($700) and then not pay anything else until you graduate. This option is not subject to interest on payment––you will owe a flat fee of $17,800 once you get a job. This fee will also be broken up into monthly payment of $494/month over 36 months.|",Esme Gaisford,"""My mentor was great, had real-world experience and served as a great resource to help me define a project as well as solve technical questions with my coding. She also provided extra resources if I wanted to practice or further develop a skill from the program.""","https://res.cloudinary.com/springboard-images/image/upload/c_limit,w_30,q_auto,dpr_auto,fl_lossy/v1549366507/homepage-assets/career-tracks/sp-dsc/mentors/esme.png",Justin Knight,"""Springboard helped with career prep and the job search where we were exploring different companies I'd be interested in. We also did mock interviews and technical interviews.They put me in contact with a few different employers.""","https://res.cloudinary.com/springboard-images/image/upload/c_limit,w_30,q_auto,dpr_auto,fl_lossy/v1549366508/homepage-assets/career-tracks/sp-dsc/career-coaching/justin.png",6-month,month,"$13,140","$10,900",USD,English,Paid,Ryan Rosario,Data Scientist,Eric Rynerson,Senior Data Scientist,Sameera Poduri,Data Science Manager,Ike Okonkwo,Data Scientist,TRUE
+2,https://www.springboard.com/courses/data-analytics-career-track/,Data Analytics Bootcamp: Learn Online + 100% Job Guarantee,Get the training you need for a successful career in data analytics. Learn at your own pace with 1-on-1 mentorship from industry experts and support from student advisors and career coaches.,"https://res.cloudinary.com/springboard-images/image/upload/c_limit,h_40,q_auto,dpr_auto,fl_lossy/v1592318763/SB_logo.png","Estimated time: 25+ HoursAll data analysis starts with a question. But how does one ask the right question? In this unit, you'll learn to think in a structured manner and break down problems into bite-sized chunks, which can be tested. This will guide your analysis and prevent you from analyzing data for the sake of analysis.
+
+Structured thinking through case studies and problem statement worksheets
+Problem Solving Framework and Processes such as the HDEIP Framework
+Issue Trees, Hypotheses Trees, and Value Driver Trees
+
+Estimated time: 85+ HoursA key skill analysts should have is the ability to structure their efforts around a central theme and present it to an executive with tangible business insight. In this unit, you’ll be introduced to common financial concepts as well as the basics of economics.
+
+Using Excel to create a default financial analysis module covering revenue and operational cost modelling.
+Financial concepts including revenue, cost of goods sold, profit, balance sheets, cash flow statements, income statements and EBIT
+Economic concepts including supply and demand curves, cost curves
+Statistical concepts including descriptive statistics (mean, mode, standard deviation, correlations etc.), correlations, simple and multivariate regression, confidence intervals
+
+Estimated time: 30+ HoursYou’ve been asked to analyze an extensive set of data so you can answer the burning question your executive has. In this unit, you’ll develop a high-level understanding of what databases are, learn about the databases that you can use in your work, and learn how to communicate with databases.
+
+Introduction to SQL, best practices in writing queries (including common table expressions) and common DA/BA tools
+Introduction to structured and unstructured Databases
+Introduction to set theory
+Case studies and hands-on exercises in writing SQL with real data
+Advanced supplementary material (i.e. Mode SQL)
+
+Estimated time: 40+ HoursCoding skills, especially the ability to do data analysis in Python, are an additional skill set which will set you apart from your peers in the job market. In this unit, you’ll learn the basics of Python and key Python libraries, including pandas, numpy, matplotlib, seaborn, and more. You will learn how to import and wrangle data, as well as visualize it.
+
+Basic Python syntax
+Introduction to Jupyter and Jupyter Notebooks
+Data cleaning
+Visualizing data and trends with Seaborn and Matplotlib
+Practical exercises in Python with real data to extract insights that could be presented to an executive audience
+
+Estimated time: 60+ HoursData analysts also need to be adept at presenting the results of their analysis to the appropriate stakeholders. This is a key, high-demand skill that separates effective business-oriented data analysts from the rest. This unit covers best practices for presenting to both technical and non-technical audiences, ranging from front-line employees to executives.
+
+Visualization tools such as Tableau and PowerBi
+Creating presentations with Powerpoints etc.
+Effective communication strategies, formats, and templates
+Presentations to technical and non-technical stakeholders, and C-suite executives through case studies
+Presentation practice across different forms
+
+","Strong critical thinking and problem-solving skills.|2 years of professional work experience working regularly with office, design or programming tools|Fluency in English (written and spoken), as determined by initial interactions with the Admissions team.|","We partnered with industry insiders, so you can learn the skills that employers look for. The 400+ hour curriculum features a combination of videos, articles, hands-on projects and case studies, and career-related coursework.","Learn both technical and business thinking skills, and get career support to get hired.",Online,"A career transition into data analytics is exciting, but involves focused and consistent effort. We are thrilled to have your back in this journey and ask for an equal commitment from you. In order to be eligible for this job guarantee, you should:|Read the full eligibility criteria and terms here.|There are 4 payment options (all of which come with our job guarantee as long as you meet eligibility requirements). Our two standard payment plans are:|In addition, we have 2 other payment options. These are available by application to qualifying US citizens and permanent residents. If you are not a US citizen or permanent resident, you can still apply for financing with a fully qualifying co-borrower who is a citizen or permanent resident - as long as you both have a US address.|Please note: lending might not be available in all 50 states - click here for the current full lending list.All charges will be in USD (based on the above prices). If you reside outside the U.S., this might carry an additional transaction fee, depending on the bank you use. We display prices in your local currency to give you an estimate of how much you will pay based on prevailing exchange rates, excluding transaction fees.|Yes, we have a financing option available! Students can apply for a loan with our partner Climb Credit, and if approved, use it to pay for tuition. Learn about the application process on Climb Credit's website here.|We do also have a Deferred Tuition payment plan. With this payment plan, you can pay an initial upfront deposit ($500) and then not pay anything else until you graduate. This option is not subject to interest on payment––you will owe a flat fee of $15,000 once you get a job. This fee will also be broken up into monthly payment of $417/month over 12 months.|We not only provide content to help you get a data science job quickly, we want you to have more impact in the role that you land.Your tuition includes:|",Khaled Jafar,"""They have top notch mentors that are experts in their field...and the project helped me solve a real world problem""","https://res.cloudinary.com/springboard-images/image/upload/c_limit,w_30,q_auto,dpr_auto,fl_lossy/v1557315641/homepage-assets/career-tracks/sp-dac/mentors/khaled.png",Lou Zhang,"""Since Springboard, I've really blended my passion into my work. I got a job on an advanced analytics team.""","https://res.cloudinary.com/springboard-images/image/upload/c_limit,w_30,q_auto,dpr_auto,fl_lossy/v1557315641/homepage-assets/career-tracks/sp-dac/career-coaching/lou.png",6-month,month,"$10,140","$8,500",USD,English,Paid,Chris Hui,Senior Data Scientist,Leslie Chen,Business Associate,Ryan George,Data Analyst,Venkatraman Prabhu,Sr. Product Manager,TRUE
+3,https://www.springboard.com/courses/ux-career-track/,UX Bootcamp: Online Design Classes with 100% Job Guarantee,Get the training you need for a successful career in UX design. Learn at your own pace with 1-on-1 mentorship from industry experts and support from student advisors and career coaches.,"https://res.cloudinary.com/springboard-images/image/upload/c_limit,h_40,q_auto,dpr_auto,fl_lossy/v1592318763/SB_logo.png","Estimated time: 10+ HoursThe first step in becoming a great UX-Designer is immersing yourself in the philosophy that inspired innovation frameworks like user-centered design (UCD): design thinking. Grounded in empathy and a hands-on, iterative approach to problem solving, design thinking is the mindset you’ll use to create effective user experiences. The key aspects of design thinking include:
+
+Empathy: observe and engage the people you’re designing a product for
+Problem definition: a good solution depends on addressing the right problem
+Ideation: a good solution depends on addressing the right problem through divergent and convergent thinking, consider many possible solutions
+Prototyping: test those possible solutions
+Testing: get feedback from real people that will help you improve your ideas and create solutions
+
+Estimated time: 44+ HoursUser research is central to UX design. When you engage users and understand their experience, you can move from being aware of a problem to understanding why the problem exists and what users want to see resolved. There are many different user research tools; this section will explore the most effective of them.Topics include: user research methods, research plans, recruiting users through screener surveys, diary studies, and interviews.In this UCD discovery unit, you’ll work on some mini-projects to sharpen your user research skills and then apply those skills to your capstone project.
+Estimated time: 10+ HoursUnderstanding the data you collect during the research phase will help you to make decisions that will reflect the interests of your users. In this unit, you’ll learn the different methods you can use to synthesize research in order to keep your designs focused on your user.Topics include: synthesis best practices, affinity maps, empathy maps, personas, problem statements, journey maps, and research presentations.
+Estimated time: 16+ HoursThis section (part of the UCD design phase) is all about getting your design hands dirty, so to speak. Here are some of the things you’ll dive into:
+
+Brainstorming solutions to the problem you’re trying to solve (for your capstone project)
+Learning how to write and map user stories that capture the intent of personas
+Learning the fundamentals of information architecture (to help you create and express your capstone project’s structure and flow)
+
+Estimated time: 60+ HoursIn this section of the UCD design phase, you’ll bring your designs to life, first as sketches and then through wireframing. You’ll also be introduced to several design tools, including Sketch and Adobe XD, learn how to conduct a guerilla usability test to validate your sketches, and learn how to apply interaction design principles to your designs. You’ll also explore the world of user interface design in order to make your designs more accessible and engaging.
+Estimated time: 9+ HoursIn the final phase of the UCD process, evaluation, you’ll create a prototype of your capstone project’s red routes. In this section, you’ll also learn when, why, and how to use different evaluative testing methods to improve your project. You’ll also put together a comprehensive case study of your capstone journey and give a presentation about your project.
+Estimated time: 25+ HoursLike most creative professions, your work as a UX designer is often going to be interrupted by urgent, unexpected projects. Don’t worry, though—after working through this unit, you’ll be prepared! In this unit, you’ll use the design sprint process to sharpen your skills.You’ll work through:
+
+A Hackathon-style project to practice working through a design sprint
+End-to-end design while working under tight deadlines
+
+Estimated time: 33+ HoursThis unit explores topics like psychology and empty states that will take your designs from good to great by teaching you how to craft designs that lead to increased engagement, continued use, and conversion.Topics include:
+
+Onboarding flows
+Empty states
+Strategy and service design
+The future of UX
+
+","Aptitude toward problem-solving, communication, and collaboration skills.|At least 1 year of documented professional experience or a degree in one of the following areas: understanding users, producing/managing visual content, or developing digital products. For example: user research, HCI, human factors; graphic/industrial design, architecture, studio arts; UI design.|","Our immersive UX bootcamp helps motivated students become job-ready in 6 months! The 350+ hour curriculum features a combination of videos, in-depth articles, hands-on design projects, and career-related coursework.",,Online,"This course is for people who want to get a job in UX Design.​​We are invested in helping you reach your career goals. Part of that commitment is making sure you know where to start, and which course is best to get you there. For the UX Career Track, we require candidates to have at least one year of documented paid professional experience or hold a bachelor’s degree or higher in one of the following areas:|The technical skills survey is all free-form answer and is designed to assess your ability to: (a) Empathize with users; (b) Generate ideas; (c) Justify your design decisions.  |We’re not looking for perfect answers — you’re not a UX Design pro yet! Rather, we want to get a better sense of how you approach a problem scenario and the creative ways you propose to solve it.  |The survey is not a timed but, for reference, most students take less than 60 minutes to complete it.  |This survey will allow us — and you — to assess your readiness for the course. If you find the test difficult and are not able to successfully answer a majority of the questions in each section, don’t worry! We have great options for you, and can advise you on best next steps after you’ve submitted the survey.|There are 4 payment options (all of which come with our job guarantee as long as you meet eligibility requirements). Our two standard payment plans are:|In addition, we have 2 other payment options. These are available by application to qualifying US citizens and permanent residents. If you are not a US citizen or permanent resident, you can still apply for Climb financing with a fully qualifying co-borrower who is a citizen or permanent resident - as long as you both have a US address.  Deferred tuition is only available to US Citizens and permanent residents.|All charges will be in USD (based on the above prices). If you reside outside the U.S., this might carry an additional transaction fee, depending on the bank you use. We display prices in your local currency to give you an estimate of how much you will pay based on prevailing exchange rates, excluding transaction fees.|Our admissions process will screen for an aptitude towards problem solving, communication and collaboration skills.  |We require candidates to have at least one year of documented paid professional experience or hold a bachelor’s degree or higher in one of the following areas:|Don’t see your job on this list? If you have questions, or you believe your work experience falls under the broader themes of understanding users, producing/managing visual content, or developing digital products, contact our Admissions Managers at uxcinquiry@springboard.com.|",Jeremy Nigh,"""My Springboard mentor helped me understand the improvisational nature of the UX process, and because she’s an active professional in the UX field, she was able to teach me valuable insights that only come from working in real-world scenarios.""","https://res.cloudinary.com/springboard-images/image/upload/c_limit,w_30,q_auto,dpr_auto,fl_lossy/v1556093305/homepage-assets/career-tracks/sp-uxc/mentors/jeremy.png",Timothy Li,"""Towards the end of Springboard, I started looking for jobs. The projects I did during Springboard helped me get attention and my mentor provided crucial pointers on interviewing for design jobs and presenting the work I’d done.""","https://res.cloudinary.com/springboard-images/image/upload/c_limit,w_30,q_auto,dpr_auto,fl_lossy/v1556093305/homepage-assets/career-tracks/sp-uxc/career-coaching/timothy.png",6-month,month,"$9,540","$7,900",USD,English,Paid,Earl Friedberg,UX Lead,Karen Ko,UX Designer,Elsa Ho,UX Researcher,Ali Rushdan Tariq,Sr. Product Designer,TRUE

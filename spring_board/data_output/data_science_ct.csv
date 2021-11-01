@@ -1,0 +1,33 @@
+,partner_course_url,title,description,logo,content,prerequisites,what_will_learn,short_desc,delivery_type,target_students,reviewer_1_name,reviewer_1_review,reviewer_1_image,reviewer_2_name,reviewer_2_review,reviewer_2_image,course_duration,course_duration_unit,regular_price,sale_price,currency,language,pricing_type,instructor_1_name,instructor_1_designation,instructor_2_name,instructor_2_designation,instructor_3_name,instructor_3_designation,instructor_4_name,instructor_4_designation,Job_Assistance
+0,https://www.springboard.com/courses/data-science-career-track-prep,Introduction to Data Science: Online Course + Mentorship,"Need more prep for our Data Science Career Track? You've come to the right place. In this mentor-led course, you'll spend 4-6 weeks learning foundational skills in Python programming and statistics, as well as introductory data science concepts—all via a curriculum specifically designed to help you pass the Data Science Career Track admissions technical skills survey. ","https://res.cloudinary.com/springboard-images/image/upload/c_limit,h_40,q_auto,dpr_auto,fl_lossy/v1592318763/SB_logo.png","Estimated time: 15+ Hours
+Introduction to Python
+Statistics refresher
+Data visualization
+
+Estimated time: 5+ Hours
+Dictionaries and their applications
+Advanced control flow techniques
+Input and output
+
+Estimated time: 5+ Hours
+Counting and probability
+Conditional probability and independence
+Bayes Theorem
+
+Estimated time: 10+ Hours
+Basics of data structures
+Fundamentals of algorithm analysis 
+Basic algorithms: sort and search
+
+Estimated time: 15+ Hours
+Assemble your Python toolkit
+Data wrangling with Pandas
+Data visualization with matplotlib
+
+Estimated time: 10+ Hours
+Acquire, clean, and transform data
+Explore data, identify patterns
+Solve a realistic business problem for Yelp
+
+","This course will prepare you with the skills needed in Python and statistics to pass our admissions technical skills survey, but enrolling in this course does not guarantee admission into the Data Science Career Track.
+",,Learn the foundational coding and statistics skills needed to start your career in data science. ,Online,,Esme Gaisford,"""My mentor was great, had real-world experience and served as a great resource to help me define a project as well as solve technical questions with my coding. She also provided extra resources if I wanted to practice or further develop a skill from the program.""","https://res.cloudinary.com/springboard-images/image/upload/c_limit,w_30,q_auto,dpr_auto,fl_lossy/v1549366507/homepage-assets/career-tracks/sp-dsc/mentors/esme.png",,,,Cohorts begin every Monday | Apply tuition to the Career Track,month,$490,$490,USD,English,Paid,Alex Chao,Data Scientist,Ike Okonkwo,Data Scientist,Mitul Tiwari,Lead Data Scientist,Sameera Poduri,Data Science Manager,FALSE
