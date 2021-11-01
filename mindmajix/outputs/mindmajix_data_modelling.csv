@@ -1,0 +1,48 @@
+page_url,title,description,delivery_method,instruction_type,what_will_learn,prerequisites,target_students,instructor|1|name,instructor_bio,review|1|reviewer_name,review|1|photo,review|1|review,review|2|reviewer_name,review|2|photo,review|2|review,review|3|reviewer_name,review|3|photo,review|3|review,review|4|reviewer_name,review|4|photo,review|4|review,languages,total_duration,total_duration_unit,content,short_description,accessibilities,live_class,job_assistance,capstone_project,average_salary
+https://mindmajix.com/data-modeling-training,Data Modeling Training,"<div class=""Curriculum_description__1LwKr""><p style=""text-align: justify;"">This Data Modeling training will help you learn how to design a relational data model, dimensional model, incorporate entities from a decomposed JSON document, NoSQL data stores, and more. Also, you’ll understand how Data Modeling determines and interprets data from experts through step-by-step methods and examples. By the end of this certification course, you will have a firm understanding of what a data model is, data model types, how to apply normalization, how to create both a dimensional and relational data model, and much more.</p></div>",Online,Instructor Paced,NaN,"Who should take the Data Modeling course?
+The Data Modeling course is designed for the following professionals:
+
+Database Modeler
+Database Administrators
+Data Scientists and Analysts
+ETL and BI Developers
+Analytics Managers
+Anyone who is looking to build a career in Data Warehousing
+
+",NaN,Sunil Sharma,"Having 10+ years of experience working closely with industry, Sunil Sharma is one of the best-certified trainers of MindMajix. He has bagged DataStage, Data Modelling and can deliver the best technology to our trainees.",Naba Kumar Sarker,https://cdn.mindmajix.com/reviewer/naba-kumar-sarker-data-modeling-review-28092021.jpg,I appreciate the level of details put into the data modeling course material. The methodology and advice provided throughout the course content will add great value to my work.,Rohhit Pinjarkar,https://cdn.mindmajix.com/reviewer/rohhit-pinjarkar-data-modeling-review-29092021.jpg,"Mindmajix Data Modeling Training covered each topic with interesting lectures. The presentation of materials was good, making it easy to understand even for the beginners.",Roland Ferrao,https://cdn.mindmajix.com/mern/images/instructor-male.svg,"It was a wonderful learning experience. Trainer's knowledge is impressive, and great teaching capability. The Data Modelling course content is great. The session was interactive which was very good. I have gained in-depth knowledge on all the concepts of Data Modeling, Thanks for everything Mindmajix.
+",Srinivas Mangilpally,https://cdn.mindmajix.com/mern/images/instructor-male.svg,"It is step by step approach to help each problem related to Data Modeling online training. I'm quite impressed by Mindmajix. Thanks to the trainer who made the tutorials so simple. Good job.
+",English,18,Hours,"['Basics of Data Modeling', 'Data Model Overall Process', 'Notations', 'Schema Types', 'Data Modeling Types', 'Dimension Types', 'Fact Types', 'Fact Table Types', 'Relationships', 'Data Modeling Standards', 'Dealing with Hierarchy Information', 'Data modeling more info', 'Data Model Reports', 'Practice Test and Interview Questions']",Learn how to create data models starting from micro businesses to big enterprises with Data modeling course,"Mobile,Desktop",TRUE,TRUE,TRUE,"₹8,391,002"
+https://mindmajix.com/dimensional-data-modeling-training,Dimensional Data Modeling Training,"<div class=""Curriculum_description__1LwKr""><p>Mindmajix Dimensional Data Modeling training makes you an expert in building the applications by leveraging capabilities of Gathering Requirements, Kimball Lifecycle in a Nutshell, Drilling Down, Up, and Across, Dimension Table Keys. etc</p></div>",Online,Instructor Paced,NaN,"Who should take the Dimensional Data Modeling course?
+
+
+
+
+The Dimensional Data Modeling training is designed for the following professionals:
+
+
+Team Leaders
+Project Managers
+Business architects and analysts
+Data modelers
+Database analysts and administrators
+People involved in data governance processes or data quality
+
+
+",NaN,Sunil Sharma,"Having 10+ years of experience working closely with industry, Sunil Sharma is one of the best-certified trainers of MindMajix. He has bagged DataStage, Data Modelling and can deliver the best technology to our trainees.",Samen Jils,https://cdn.mindmajix.com/mern/images/instructor-male.svg,"Learning about Dimensional Data Modeling has improved my skills and i am now able to crack the certification. Trainer was superb, Thanks Mindmajix for the wonderful experience.",Jeff Mark,https://cdn.mindmajix.com/mern/images/instructor-male.svg,Greetings!! Really appreciate for your effort on Dimensional Data Modeling training. I would definitely give you a 5 star rating for detailed providing best online training. Great Mindmajix.,Sarah Crook,https://cdn.mindmajix.com/mern/images/instructor-male.svg,Thanks for arranging the Dimensional Data Modeling session as per my request and then resolving my query in record time to my full satisfaction.  This deserves a 10 out of 10 marks. Keep it up Mindmajix.,NaN,NaN,NaN,English,30,Hours,"RDBMS
+First Normal Form
+What Is A Data Model
+4 Phases Of Modeling
+Logical Data Model
+Physical Data Model
+Hands on OLTP Data Model Scenarios
+Characteristics Of Data Warehouse
+Industry Specific Models
+Meta Data Management(MDM)
+Dimension Tables
+Fact Column Types
+Bus architecture
+Outrigger dimension
+Handling M X N RelatiosShip Tables
+Drill Across
+Hands on Dimensional Modeling Scenarios
+Practice Test & Interview Questions",Leverage the growing demand for Certified Dimensional Data Modeling Professionals,"Mobile,Desktop",TRUE,TRUE,TRUE,"₹7,223,458"
